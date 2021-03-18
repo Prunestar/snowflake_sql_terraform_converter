@@ -15,11 +15,11 @@ The sql file must have blocks of commands seperated by **;** and comments denote
 
 ```sql
 -- create_Database;
-CREATE DATABASE IF NOT EXISTS PROD_LEARNER_ANALYTICS;
+CREATE DATABASE IF NOT EXISTS DB1;
 
 -- set_database; 
 
-USE DATABASE PROD_LEARNER_ANALYTICS;
+USE DATABASE DB1;
 
 -- CREATE_SCHEMAS;
 
