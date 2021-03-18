@@ -2,6 +2,7 @@ import re
 import argparse
 
 #TODO: fix naming convention issue with grant_table and schema etc. Find better way to align with the way the terraform hierarchy works compared to sql. 
+#TODO: add functionality for other terraform snowflake functionality. 
 
 class SnowflakeTerraformWriter():
 
